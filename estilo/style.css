@@ -54,6 +54,7 @@ header > h1{
     max-width: 650px;
     padding-right: 10px;
     padding-left: 10px;
+    padding-bottom: 30px;
     margin: auto;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.288);
     /* se eu coloco margin-bottom dá erro, então sem saber como resolver, optei por deixar dessa forma*/
